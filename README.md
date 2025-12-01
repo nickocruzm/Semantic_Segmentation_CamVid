@@ -1,8 +1,8 @@
-# Semantic_Segmentation_CamVid (Due
+# Semantic_Segmentation_CamVid
 semantic segmentation model on the CamVid dataset using a ResNet-based architecture.
 
 ## Deadlines
-- 
+- Presentation (Dec. 03, 2025)
 - Report Due (Dec. 14, 2025)
 
 ## Dataset
